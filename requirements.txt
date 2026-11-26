@@ -1,4 +1,6 @@
-streamlit
-speedtest-cli
-pandas
-pillow
+streamlit>=1.32
+speedtest-cli>=2.1.3
+pandas>=2.0
+pillow>=10.0
+beautifulsoup4>=4.12
+requests>=2.31

@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+speedtest/
+__pycache__/
+*.py[cod]
+.streamlit/
+.env
+.env.*
+.git/
+.gitignore
+*.md
+setup.sh
+setup.bat
+.DS_Store
